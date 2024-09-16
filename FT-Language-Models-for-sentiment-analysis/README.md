@@ -45,9 +45,7 @@ This project demonstrates the fine-tuning of two pre-trained small language mode
 
 ## How to Use
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/repositoryname.git
+1. Clone this repository
 
 2. Open the Jupyter notebooks (`distilbert.ipynb` or `albert.ipynb`) in your Jupyter environment (e.g., JupyterLab, Google Colab).
 
