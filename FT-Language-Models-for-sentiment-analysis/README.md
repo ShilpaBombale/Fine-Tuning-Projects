@@ -2,7 +2,7 @@
 
 This project demonstrates the fine-tuning of two pre-trained small language models, **DistilBERT** and **ALBERT**, for sentiment analysis using the IMDb dataset. The task involves classifying movie reviews as either 'positive' or 'negative'. Additionally, the project leverages **Low-Rank Adaptation (LoRA)** to make the fine-tuning process more resource-efficient.
 
-## Files in This Repository
+## Files:
 
 ### 1. `distilbert.ipynb`
 - Jupyter notebook containing the fine-tuning process for the **DistilBERT** model.
