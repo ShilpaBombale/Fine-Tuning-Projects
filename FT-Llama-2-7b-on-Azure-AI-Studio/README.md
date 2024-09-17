@@ -84,6 +84,8 @@ https://github.com/user-attachments/assets/4ed7fe6a-45a9-47fc-b390-9293541515e6
 1. **View Training Results**:
     - After the job completes, view the fine-tuning metrics and evaluate model performance.
 
+https://github.com/user-attachments/assets/35299379-0ff4-4ea8-aa22-04a534767441
+
 ## 6. Deploy the Fine-Tuned Model
 
 1. **Deploy the Model**:
