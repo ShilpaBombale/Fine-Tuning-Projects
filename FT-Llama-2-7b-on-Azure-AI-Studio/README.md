@@ -45,6 +45,8 @@ This guide provides a detailed, step-by-step process to fine-tune the LLaMA 2 7B
     - In Azure AI Studio, navigate to the **Projects** section.
     - Click **+ New project**, provide a name, and click **Create**.
 
+https://github.com/user-attachments/assets/d8a0607c-e15a-46c4-aa64-b3bda5a1c834
+
 ## 4. Fine-Tune the Model
 
 1. **Navigate to Fine-tuning**:
