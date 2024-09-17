@@ -77,6 +77,8 @@ https://github.com/user-attachments/assets/7735cef6-0711-4a31-9774-a88ce4e207bf
 6. **Submit the Fine-Tuning Job**:
     - Review and submit the job. The training will start, and you can monitor its progress.
 
+https://github.com/user-attachments/assets/4ed7fe6a-45a9-47fc-b390-9293541515e6
+
 ## 5. Evaluate the Fine-Tuned Model
 
 1. **View Training Results**:
