@@ -61,8 +61,11 @@ https://github.com/user-attachments/assets/d8a0607c-e15a-46c4-aa64-b3bda5a1c834
     - Upload your `data.jsonl` file by following the prompts.
     - Map the labels to **Prompt** and **Completion** for text generation tasks.
 
+https://github.com/user-attachments/assets/7735cef6-0711-4a31-9774-a88ce4e207bf
+
 4. **Upload Validation Data (Optional)**:
     - You can optionally upload a separate validation dataset, or let the tool split your dataset into training and validation sets.
+      
 
 5. **Set Task Parameters**:
     - For new users, it’s recommended to keep default settings:
