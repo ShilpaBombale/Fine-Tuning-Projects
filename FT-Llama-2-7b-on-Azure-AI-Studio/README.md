@@ -102,6 +102,8 @@ https://github.com/user-attachments/assets/4f35acc9-d208-4fac-9842-9a116d569d9d
 
 2. **Monitor Performance**:
     - Set up monitoring to track performance and usage using Azure’s built-in tools.
+      
+https://github.com/user-attachments/assets/f5a74a72-ee2b-4433-88ef-cb7075890ab8
 
 ## 8. Optimize and Iterate
 
