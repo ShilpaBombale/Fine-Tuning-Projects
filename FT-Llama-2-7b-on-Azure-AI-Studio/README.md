@@ -91,6 +91,8 @@ https://github.com/user-attachments/assets/35299379-0ff4-4ea8-aa22-04a534767441
 1. **Deploy the Model**:
     - Click on **Deploy** and follow the prompts to configure the deployment.
     - Give your deployment a unique name, then click **Deploy**. The process may take a few moments.
+  
+https://github.com/user-attachments/assets/4f35acc9-d208-4fac-9842-9a116d569d9d
 
 ## 7. Post-Deployment Steps
 
