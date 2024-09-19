@@ -1,8 +1,8 @@
-# Step-by-Step Guide to Fine-Tuning LLaMA 2 7B on Azure AI Studio
+# Step-by-Step Guide to Fine-Tuning LLaMA 2 7B using Azure AI Studio
 
-This project demonstrates the fine-tuning of LLaMA 2 7B on Azure AI Studio for IC Automation.
+This project demonstrates the fine-tuning of LLaMA 2 7B using Azure AI Studio for IC Automation.
 
-This README.md file provides a detailed, step-by-step process to fine-tune the LLaMA 2 7B model on Azure AI Studio. By following this guide, you'll learn how to set up your environment, configure the fine-tuning task, and deploy the fine-tuned model.
+This README.md file provides a detailed, step-by-step process to fine-tune the LLaMA 2 7B model using Azure AI Studio. By following this guide, you'll learn how to set up your environment, configure the fine-tuning task, and deploy the fine-tuned model.
 
 ## Prerequisites
 
