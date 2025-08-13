@@ -1,6 +1,6 @@
 # Fine-Tuning Projects Repository
 
-This repository contains two fine-tuning projects that explore the application of transformer models in sentiment analysis and IC automation. Each project leverages state-of-the-art models and techniques for efficient fine-tuning.
+This repository contains two fine-tuning LLMs projects that explore the application of transformer models in sentiment analysis and leveraging Azure AI studio for IC automation. 
 
 ## 1. **FT-Language-Models-for-Sentiment-Analysis**
 
